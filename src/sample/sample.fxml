@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="417.0" prefWidth="374.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField layoutX="49.0" layoutY="43.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="79.0" layoutY="43.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="109.0" layoutY="43.0" prefHeight="25.0" prefWidth="23.0" text="4" />
+      <TextField layoutX="49.0" layoutY="75.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="79.0" layoutY="75.0" prefHeight="25.0" prefWidth="23.0" text="6" />
+      <TextField layoutX="109.0" layoutY="75.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="49.0" layoutY="108.0" prefHeight="25.0" prefWidth="23.0" text="2" />
+      <TextField layoutX="79.0" layoutY="108.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="109.0" layoutY="108.0" prefHeight="25.0" prefWidth="23.0" text="5" />
+      <Line endX="-100.0" endY="-122.5" layoutX="239.0" layoutY="157.0" startX="-100.0" startY="193.5" />
+      <Line endX="182.5" layoutX="150.0" layoutY="140.0" startX="-107.5" />
+      <TextField layoutX="49.0" layoutY="149.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="79.0" layoutY="149.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="109.0" layoutY="149.0" prefHeight="25.0" prefWidth="23.0" text="2" />
+      <TextField layoutX="49.0" layoutY="181.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="79.0" layoutY="181.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="109.0" layoutY="181.0" prefHeight="25.0" prefWidth="23.0" text="9" />
+      <TextField editable="false" layoutX="49.0" layoutY="214.0" prefHeight="25.0" prefWidth="23.0" text="5" />
+      <TextField layoutX="79.0" layoutY="214.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="109.0" layoutY="214.0" prefHeight="25.0" prefWidth="23.0" />
+      <Line endX="183.5" layoutX="149.0" layoutY="246.0" startX="-106.5" />
+      <TextField layoutX="146.0" layoutY="43.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="176.0" layoutY="43.0" prefHeight="25.0" prefWidth="23.0" text="2" />
+      <TextField editable="false" layoutX="206.0" layoutY="43.0" prefHeight="25.0" prefWidth="23.0" text="3" />
+      <TextField editable="false" layoutX="146.0" layoutY="75.0" prefHeight="25.0" prefWidth="23.0" text="5" />
+      <TextField editable="false" layoutX="176.0" layoutY="75.0" prefHeight="25.0" prefWidth="23.0" text="4" />
+      <TextField editable="false" layoutX="206.0" layoutY="75.0" prefHeight="25.0" prefWidth="23.0" text="7" />
+      <TextField layoutX="146.0" layoutY="108.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="176.0" layoutY="108.0" prefHeight="25.0" prefWidth="23.0" text="6" />
+      <TextField editable="false" layoutX="206.0" layoutY="108.0" prefHeight="25.0" prefWidth="23.0" text="9" />
+      <TextField layoutX="146.0" layoutY="149.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="176.0" layoutY="149.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="206.0" layoutY="149.0" prefHeight="25.0" prefWidth="23.0" text="1" />
+      <TextField editable="false" layoutX="146.0" layoutY="181.0" prefHeight="25.0" prefWidth="23.0" text="5" />
+      <TextField editable="false" layoutX="176.0" layoutY="181.0" prefHeight="25.0" prefWidth="23.0" text="2" />
+      <TextField layoutX="206.0" layoutY="181.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="146.0" layoutY="214.0" prefHeight="25.0" prefWidth="23.0" text="7" />
+      <TextField layoutX="176.0" layoutY="214.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="206.0" layoutY="214.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="49.0" layoutY="253.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="79.0" layoutY="253.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="109.0" layoutY="253.0" prefHeight="25.0" prefWidth="23.0" text="6" />
+      <TextField layoutX="49.0" layoutY="285.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="79.0" layoutY="285.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="109.0" layoutY="285.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="49.0" layoutY="318.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="79.0" layoutY="318.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="109.0" layoutY="318.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="146.0" layoutY="253.0" prefHeight="25.0" prefWidth="23.0" text="2" />
+      <TextField layoutX="176.0" layoutY="253.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="206.0" layoutY="253.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="146.0" layoutY="285.0" prefHeight="25.0" prefWidth="23.0" text="6" />
+      <TextField editable="false" layoutX="176.0" layoutY="285.0" prefHeight="25.0" prefWidth="23.0" text="9" />
+      <TextField editable="false" layoutX="206.0" layoutY="285.0" prefHeight="25.0" prefWidth="23.0" text="5" />
+      <TextField editable="false" layoutX="146.0" layoutY="318.0" prefHeight="25.0" prefWidth="23.0" text="3" />
+      <TextField layoutX="176.0" layoutY="318.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="206.0" layoutY="318.0" prefHeight="25.0" prefWidth="23.0" />
+      <Line endX="-100.0" endY="305.5" layoutX="336.0" layoutY="45.0" startX="-100.0" startY="-10.5" />
+      <TextField layoutX="243.0" layoutY="43.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="273.0" layoutY="43.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="303.0" layoutY="43.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="243.0" layoutY="75.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="273.0" layoutY="75.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="303.0" layoutY="75.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="243.0" layoutY="108.0" prefHeight="25.0" prefWidth="23.0" text="4" />
+      <TextField layoutX="273.0" layoutY="108.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="303.0" layoutY="108.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="243.0" layoutY="149.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="273.0" layoutY="149.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="303.0" layoutY="149.0" prefHeight="25.0" prefWidth="23.0" text="8" />
+      <TextField editable="false" layoutX="243.0" layoutY="181.0" prefHeight="25.0" prefWidth="23.0" text="7" />
+      <TextField layoutX="273.0" layoutY="181.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="303.0" layoutY="181.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="243.0" layoutY="214.0" prefHeight="25.0" prefWidth="23.0" text="2" />
+      <TextField layoutX="273.0" layoutY="214.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="303.0" layoutY="214.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="243.0" layoutY="252.0" prefHeight="25.0" prefWidth="23.0" text="8" />
+      <TextField layoutX="273.0" layoutY="252.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="303.0" layoutY="252.0" prefHeight="25.0" prefWidth="23.0" text="9" />
+      <TextField layoutX="243.0" layoutY="284.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="273.0" layoutY="284.0" prefHeight="25.0" prefWidth="23.0" text="1" />
+      <TextField layoutX="303.0" layoutY="284.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField editable="false" layoutX="243.0" layoutY="317.0" prefHeight="25.0" prefWidth="23.0" text="5" />
+      <TextField layoutX="273.0" layoutY="317.0" prefHeight="25.0" prefWidth="23.0" />
+      <TextField layoutX="303.0" layoutY="317.0" prefHeight="25.0" prefWidth="23.0" />
+      <Button layoutX="162.0" layoutY="369.0" mnemonicParsing="false" text="Check" />
+      <Line endX="183.0" endY="1.0" layoutX="150.0" layoutY="34.0" startX="-107.5" startY="1.0" />
+      <Line endX="189.5" endY="1.0" layoutX="143.0" layoutY="351.0" startX="-100.0" />
+      <Line endX="-100.0" endY="-122.5" layoutX="142.0" layoutY="158.0" startX="-100.0" startY="193.5" />
+      <Line endX="-100.0" endY="-122.5" layoutX="433.0" layoutY="158.0" startX="-100.0" startY="193.5" />
+   </children>
+</Pane>
